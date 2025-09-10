@@ -1,0 +1,19 @@
+void main() {
+  var a = 10;
+  a = 50;
+  //a = "sukeshani";
+  dynamic b = 10;
+  print(b);
+  b = 20;
+  print(b);
+  b = true;
+  print(b);
+  b = "sukeshani";
+  print(b);
+}
+
+//output
+// 10
+// 20
+// true
+// sukeshani
