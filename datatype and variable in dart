@@ -1,0 +1,18 @@
+//Data type  variable name  = value ;
+void main() {
+int age = 10;
+print (age);
+double percent =90.4;
+print(percent);
+String name = "shukeshani";
+print (name );
+bool isEven = true;
+print(isEven);
+}
+
+
+//output:
+// 10
+// 90.4
+// shukeshani
+// true
