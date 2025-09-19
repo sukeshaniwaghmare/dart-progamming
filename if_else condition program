@@ -1,0 +1,25 @@
+// if - else 
+//number is positive or not 
+void main(){
+  int number =10;
+if (number>0){
+print("$number is positive");
+
+}
+else {
+print ("$number is negative ");
+}
+}
+
+/// second example  which number is larger
+
+// void main(){
+// int a = 20;
+// int b = 90;
+//   if (a >b){
+// print("$a is larger");
+//   }
+// else{
+//   print("$b is larger");
+// }
+// }
