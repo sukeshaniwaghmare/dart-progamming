@@ -1,0 +1,9 @@
+void main() {
+  //String interpolation
+  String name1 = "sukeshani";
+  String name2 = "waghmare $name1";
+  print(name2);
+}
+
+//output:
+//waghmare sukeshani
