@@ -1,0 +1,24 @@
+//ternary operator or conditional operator:
+
+void main(){
+
+//number is positive or not ??
+
+int number =-10;
+
+//condition ? stmt 1: stmt 2;
+
+(number >0 )? print ("$number is posiyive "): print ("$number is negative");
+}
+
+//output:
+//-10 is negative
+
+/*
+ * void main (){
+int a = 100 
+int b = 1000
+
+(a>b)?print("a is large"):print("b is large");
+}
+*/
