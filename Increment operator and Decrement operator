@@ -1,0 +1,22 @@
+//increment operator ++
+//decrement operator --
+
+void main() {
+ //post increment oprator 
+int a = 5;
+int b = a++; //post increment 
+//int b = ++a; //preincrement 
+print (a);
+print (b);
+
+
+ //post decrement  oprator 
+int c = 10;
+int d = c--; //post increment 
+//int d = --c; //preincrement 
+print (c);
+print (d);
+
+
+
+}
