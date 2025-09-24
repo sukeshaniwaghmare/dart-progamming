@@ -1,0 +1,54 @@
+//switch case
+
+void main() {
+  int value = 1;
+  switch (value) {
+    case 1:
+      print("one");
+      break;
+
+    case 2:
+      print("two");
+      break;
+
+    case 3:
+      print("three");
+      break;
+
+    default:
+      print("invalid input");
+  }
+}
+
+//other ex:
+/*
+
+void main()
+{
+int a =10;
+int b =30;
+
+var oprator = "+";
+switch (value) {
+    case "+":
+      print("a+b");
+      break;
+
+    case "-":
+      print("a_b");
+      break;
+
+    case "*":
+      print("a*b");
+      break;
+    case "/":
+      print("a/b");
+      break;
+
+    default:
+      print("invalid input");
+  }
+}
+*/
+
+
