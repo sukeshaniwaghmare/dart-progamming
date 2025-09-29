@@ -1,0 +1,29 @@
+void main() {
+//   //while loop
+ 
+//   int number = 0;
+//   while (number < 10) {
+//     print(number);
+//     number++;
+//   }
+  
+  
+  
+  //do while loop
+  
+//   int number = 11;
+//   do{
+//      print (number);
+//     number++;
+//   }while(number < 10);
+  
+  
+//for loop
+  
+  
+  for (var i= 0; i<10; i++){
+    print(i);
+  }
+  
+  
+}
