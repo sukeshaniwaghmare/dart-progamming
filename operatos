@@ -1,0 +1,40 @@
+void main() {
+  // Arthimatic operators
+  //Addition +
+  //Subtraction –
+  //Multiplication *
+  //Division    /
+  //Modulus %
+
+  //addTwoNumbers(3,6);
+  //substractTwoNumber(90, 20);
+  //multiplyTwoNumber(8,30);
+  //divideTwoNumber(7,2);
+  modulusTwoNumber(20, 3);
+}
+
+void addTwoNumbers(int a, int b) {
+  int c = a + b;
+  print(c);
+}
+
+void substractTwoNumber(int a, int b) {
+  int c = a - b;
+  print(c);
+}
+
+void multiplyTwoNumber(int a, int b) {
+  int c = a * b;
+  print(c);
+}
+
+void divideTwoNumber(int a, int b) {
+  int c = a ~/ b;
+  print(c);
+}
+
+//modulus means remainder
+void modulusTwoNumber(int a, int b) {
+  int c = a ~/ b;
+  print(c);
+}
