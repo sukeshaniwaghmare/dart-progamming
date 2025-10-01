@@ -1,0 +1,12 @@
+// for loop 
+//syntax
+// for (init; condi;inc/dec){}
+void main (){
+//   for (int i = 1; i<=6; i++){
+//   print(" $i hello");
+//   }
+  
+   for (int i = 1; i<=10; i++){
+  print(2*i);
+  }
+}
